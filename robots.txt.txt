@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap:https://topoabd71-ship-it.github.io/abdallah-salah/sitemap.xml
-
+Sitemap: https://topoabd71-ship-it.github.io/abdallah-salah/sitemap.xml

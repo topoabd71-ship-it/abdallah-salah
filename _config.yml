@@ -1,0 +1,9 @@
+title: "موقع عبد الله صالح"
+description: "موقع مهني"
+baseurl: "/abdallah-salah"
+url: "https://topoabd71-ship-it.github.io"
+
+plugins:
+  - jekyll-sitemap
+
+theme: minima  # أو أي ثيم تستخدمه
